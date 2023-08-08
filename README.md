@@ -1,4 +1,4 @@
-# Hello, my name is Guilherme, and welcome to my GitHub 😊
+# Hello, my name is Guilherme, and welcome to my GitHub!
 
 <div align="">
   <a href="https://github.com/guilherme-dalsotto">
